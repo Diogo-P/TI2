@@ -2,7 +2,7 @@ package Exercicio;
 import java.util.Scanner;
 
 public class Somador {
-	public static void main() {
+	public static void main(String args[]) {
 		int a,b,soma;
 		Scanner sc = new Scanner(System.in);
 		a=sc.nextInt();
